@@ -1,0 +1,9 @@
+location_of_chromium_exe: "C:\\Program Files (x86)\\BraveSoftware\\Brave-Browser\\Application\\brave.exe"     #Put your Chrome/Chromium exe path here.
+
+token: '_____'  #Discord token here.
+bot: False      #False for selfbot, true for normal bot. If true, will have to edit bot.py
+prefix: '!'     #Prefix for bot.
+
+autoscrape: True       #Recommended to stay false. The methood I use to scrape is ass rn. Too lazy to fix, will do later.
+
+autocheck: True         #Recommended to be true. There is still a check but this removes about 80% of the problem-causing proxies.

@@ -1,0 +1,8 @@
+urllib3
+selenium
+requests
+pyyaml
+proxyscrape
+undetected_chromedriver
+datetime
+discord
